@@ -5,19 +5,19 @@ Hi, my name is Tran Minh Nhat (N.T.N Dranix).<!-- laglaglaglaglaglaglaglaglaglag
 <ul>
 <li><a href="https://www.tmasolutions.com/" target="_blank" rel="noopener noreferrer">TMA Solutions</a></li>
 <li><a href="https://www.fpt-software.com/" target="_blank" rel="noopener noreferrer">FPT Software</a></li>
-<li><a href="https://portal.msrc.microsoft.com/en-us/security-guidance/researcher-acknowledgments-online-services" target="_blank" rel="noopener noreferrer">Microsoft</a></li>
+<li><a href="https://ephcmut.blogspot.com/" target="_blank" rel="noopener noreferrer">Electric Power</a></li>
 <li><a href="https://www.eccouncil.org/bug-bounty/hall-of-fame/" target="_blank" rel="noopener noreferrer">EC-Council</a></li>
 <li><a href="" target="_blank" rel="noopener noreferrer">...</a></li>
 </ul><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 At this time, I also contribute to <a href="https://www.owasp.org/" target="_blank" rel="noopener noreferrer">OWASP</a>. Write new testing cases & review testing cases for:
 <ul>
-<li><a href="https://github.com/OWASP/wstg" target="_blank" rel="noopener noreferrer">OWASP Web Security Testing Guide v5</a></li>
-<li><a href="https://github.com/OWASP/owasp-cstg" target="_blank" rel="noopener noreferrer">OWASP Cloud Security Testing Guide</a></li>
+<li><a href="https://aiacademy.edu.vn/" target="_blank" rel="noopener noreferrer">AI Academy VN Guide v5</a></li>
+<li><a href="https://hcmbktechs.com.vn/" target="_blank" rel="noopener noreferrer">BK Techs</a></li>
 </ul><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 You can visit my personal blog <a href="" target="_blank" rel="noopener noreferrer">404</a>. Also, feel free to contact me on...<br/>
 Linkedin: <a href="https://www.linkedin.com/in/tr%E1%BA%A7n-minh-nh%E1%BA%ADt-44b269157/" target="_blank" rel="noopener noreferrer">Tran Minh Nhat</a><br/>
 Email: &nbsp;&nbsp;<a href="mailto:tranminhnhat20022002@gmail.com">tranminhnhat20022002@gmail.com</a>
 </p>
 <!-- slightdelayhere-->
-Best Regards
+Best Regards! 
 <br/>

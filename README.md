@@ -1,5 +1,5 @@
-# manhnho.github.io
+# nhatVNU.github.io
 
-Idea: ManhNho
+Idea: Dranix
 
-Design & Coding: SangDQ
+Design & Coding: NhatVNU

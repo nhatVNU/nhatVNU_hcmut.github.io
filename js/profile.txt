@@ -1,7 +1,6 @@
 <
 <span id="a">MinhNhat@Engineer</span>:<span id="b">~</span><span id="c">$</span> whoami<br/><br/><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 Hi, my name is Tran Minh Nhat (N.T.N Dranix).<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<!--
 <p>I'm a young electrical and computer engineering from Vietnam, passionate in hardware designing and application programming. I'am studying at Ho Chi Minh City University of Technology. I have a big interest in Web development, especially web development with MERN stack. Currently, I work at <a href="https://www.fujinet.net/" target="_blank" rel="noopener noreferrer">Fujinet Systems JSC</a> as a Associate Developer.</p><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>The following list contains some of the most recognizable companies I have collaborated with, and they included me in their security acknowledgements page for reporting valid security issues:
 <ul>
@@ -19,7 +18,7 @@ At this time, I also contribute to <a href="https://www.owasp.org/" target="_bla
 You can visit my personal blog <a href="" target="_blank" rel="noopener noreferrer">404</a>. Also, feel free to contact me on...<br/>
 Linkedin: <a href="https://www.linkedin.com/in/tr%E1%BA%A7n-minh-nh%E1%BA%ADt-44b269157/" target="_blank" rel="noopener noreferrer">Tran Minh Nhat</a><br/>
 Email: &nbsp;&nbsp;<a href="mailto:tranminhnhat20022002@gmail.com">tranminhnhat20022002@gmail.com</a>
-</p> -->
+</p>
 <!-- slightdelayhere-->
 Best Regards! 
 <br/>
